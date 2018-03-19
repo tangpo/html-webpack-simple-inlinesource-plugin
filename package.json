@@ -1,0 +1,24 @@
+{
+  "name": "html-webpack-simple-inlinesource-plugin",
+  "version": "1.0.0",
+  "description": "Enhances  html-webpack-plugin functionality  with inline js or css to html",
+  "main": "inlineSourcePlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangpo/html-webpack-simple-inlinesource-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangpo/html-webpack-simple-inlinesource-plugin/issues"
+  },
+  "homepage": "https://github.com/tangpo/html-webpack-simple-inlinesource-plugin#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "uglify-js": "^3.3.16"
+  }
+}
